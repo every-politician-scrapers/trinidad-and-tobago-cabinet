@@ -15,7 +15,6 @@ class MemberList
 
     field :position do
       noko.xpath('following::*[contains(., "Minister")][1]').text.tidy
-      # binding.pry
     end
 
     private
