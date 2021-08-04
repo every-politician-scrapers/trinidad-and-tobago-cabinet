@@ -9,18 +9,28 @@ class MemberList
   class Member < Scraped::HTML
     PREFIXES = %w[Senator Dr The Hon].freeze
 
+    REMAP = {
+      'Minister of Energy and Energy Industries and Minister in the Office of the Prime Minister' => [
+        'Minister of Energy and Energy Industries', 'Minister in the Office of the Prime Minister'
+      ],
+    }.freeze
+
     field :name do
       PREFIXES.reduce(full_name) { |current, prefix| current.sub(/#{prefix}\.? /i, '') }
     end
 
     field :position do
-      noko.xpath('following::*[contains(., "Minister")][1]').text.tidy
+      REMAP.fetch(raw_position, raw_position)
     end
 
     private
 
     def full_name
       noko.text.tidy
+    end
+
+    def raw_position
+      noko.xpath('following::*[contains(., "Minister")][1]').text.tidy
     end
   end
 
