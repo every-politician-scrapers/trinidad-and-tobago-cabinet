@@ -7,12 +7,21 @@ require 'pry'
 class MemberList
   # details for an individual member
   class Member < Scraped::HTML
+    PREFIXES = %w[Senator Dr The Hon].freeze
+
     field :name do
-      noko.css('.name').text.tidy
+      PREFIXES.reduce(full_name) { |current, prefix| current.sub(/#{prefix}\.? /i, '') }
     end
 
     field :position do
-      noko.css('.position').text.tidy
+      noko.xpath('following::*[contains(., "Minister")][1]').text.tidy
+      # binding.pry
+    end
+
+    private
+
+    def full_name
+      noko.text.tidy
     end
   end
 
@@ -28,7 +37,12 @@ class MemberList
     private
 
     def member_container
-      noko.css('.member')
+      # There's no real structure here. Everything seems to be in one of
+      # <h1>, <h2>, or <p><strong>
+      # but that also includes some other things
+      noko.css('.page-content-container').css('h1,h2,p.strong').reject do |node|
+        node.text.to_s.empty? || node.text.include?('Minister')
+      end
     end
   end
 end
