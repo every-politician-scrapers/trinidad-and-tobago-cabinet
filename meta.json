@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Trinidad and Tobago",
+      "id": "Q754"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q107861127",
+      "start": "2015-09-09",
+      "parent": "Q107861112"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.opm.gov.tt/ministers-of-government/",
+        "title": "Office of The Prime Minister - Republic of Trinidad and Tobago | Ministers of Government",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/trinidad-and-tobago-cabinet"
 }
