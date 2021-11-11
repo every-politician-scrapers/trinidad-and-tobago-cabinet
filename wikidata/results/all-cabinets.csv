@@ -1,0 +1,4 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q6750854,Manning Administration,2001-12-26,11,,,2010-05-25,11,,,Q107861112,cabinet of Trinidad and Tobago,,,,,Q17111246,People's Partnership Administration,,,,
+,Q17111246,People's Partnership Administration,2010-05-01,10,,,2015-09-01,10,,,Q107861112,cabinet of Trinidad and Tobago,,,Q6750854,Manning Administration,,,,,,
+,Q107861127,Rowley Administration,2015-09-09,11,,,,,,,Q107861112,cabinet of Trinidad and Tobago,,,,,,,,,,
