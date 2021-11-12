@@ -75,4 +75,3 @@ if [ ${#warnings[@]} -gt 0 ]; then
   echo "Missing/short DOB:"
   printf '\t%s\n' "${warnings[@]}"
 fi
-
