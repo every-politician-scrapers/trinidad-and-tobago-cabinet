@@ -1,0 +1,90 @@
+{
+  "title": "Ayanna Webster-Roy",
+  "pageID": 68586850,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "University of the West Indies alumni",
+    "People's National Movement politicians",
+    "Members of the House of Representatives (Trinidad and Tobago)",
+    "21st-century women politicians",
+    "Women government ministers of Trinidad and Tobago",
+    "Government ministers of Trinidad and Tobago",
+    "Trinidad and Tobago women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ayanna Webster-Roy is a Trinidad and Tobago People's National Movement politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trinidad and Tobago"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's National Movement"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ayanna Webster-Roy"
+                ]
+              }
+            },
+            {
+              "text": "She has served as a Member of Parliament in the House of Representatives for Tobago East since the 2015 general election.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of parliament"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Trinidad and Tobago)"
+                },
+                {
+                  "text": "Tobago East",
+                  "type": "internal",
+                  "page": "Tobago East (TT Parliamentary Constituency)"
+                },
+                {
+                  "text": "2015 general election",
+                  "type": "internal",
+                  "page": "2015 Trinidad and Tobago general election"
+                }
+              ]
+            },
+            {
+              "text": "She is also currently a Minister in the Office of the Prime Minister."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Trinidad and Tobago politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "The Honourable Ayanna Webster-Roy, MP",
+          "url": "http://www.news.gov.tt/content/honourable-ayanna-webster-roy-mp#.YSf-8o5Kg2x",
+          "url-status": "live",
+          "access-date": "2021-08-28",
+          "website": "Trinidad and Tobago Government News",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

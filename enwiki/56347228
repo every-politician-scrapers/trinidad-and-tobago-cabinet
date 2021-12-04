@@ -1,0 +1,215 @@
+{
+  "title": "Paula-Mae Weekes",
+  "pageID": 56347228,
+  "categories": [
+    "21st-century judges",
+    "21st-century politicians",
+    "Living people",
+    "1950s births",
+    "Presidents of Trinidad and Tobago",
+    "Trinidad and Tobago judges",
+    "University of the West Indies alumni",
+    "Female heads of state",
+    "Women presidents"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Paula-Mae Weekes (born 23 December 1958) is a Trinidadian judge who is the sixth President of Trinidad and Tobago.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Trinidad and Tobago"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Paula-Mae Weekes"
+                ]
+              }
+            },
+            {
+              "text": "She is the first female President of Trinidad and Tobago, as well as the second female head of state in Trinidad and Tobago after Elizabeth II and the second female president of African descent in the Americas following Ertha Pascal-Trouillot.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                },
+                {
+                  "type": "internal",
+                  "page": "Americas"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ertha Pascal-Trouillot"
+                }
+              ]
+            },
+            {
+              "text": "She took office on 19 March 2018."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "President of Trinidad and Tobago",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1958",
+          "month": "12",
+          "day": "23",
+          "template": "birth date and age"
+        },
+        {
+          "_list": "ORTT",
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Paula-Mae Weekes"
+          },
+          "image": {
+            "text": "President Paul Mae-Weekes.jpg"
+          },
+          "office": {
+            "text": "6th President of Trinidad and Tobago",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Trinidad and Tobago"
+              }
+            ]
+          },
+          "honorific-prefix": {
+            "text": "Her Excellency",
+            "links": [
+              {
+                "text": "Her Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "ORTT",
+            "links": [
+              {
+                "text": "ORTT",
+                "type": "internal",
+                "page": "Order of the Republic of Trinidad and Tobago"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Keith Rowley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Keith Rowley"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 March 2018"
+          },
+          "predecessor": {
+            "text": "Anthony Carmona",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Carmona"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 23, 1958"
+          },
+          "birth_place": {
+            "text": "Port of Spain, Trinidad and Tobago",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Port of Spain"
+              },
+              {
+                "type": "internal",
+                "page": "Trinidad and Tobago"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the West Indies, Cave Hill Hugh Wooding Law School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the West Indies, Cave Hill"
+              },
+              {
+                "type": "internal",
+                "page": "Hugh Wooding Law School"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://otp.tt/the-president/thepresident/",
+          "title": "The President's Profile",
+          "publisher": "The Office of the President",
+          "access-date": "2018-03-25",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2018-06-18",
+          "title": "Paula Mae Weekes, la nouvelle sensation du monde politique caraïbéen",
+          "url": "https://dofen.news/paula-mae-weekes-la-nouvelle-sensation-du-monde-politique-caraibeen/",
+          "access-date": "2021-05-11",
+          "website": "Dofen News",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Caribbean Elections - Learning Resources: Electorial Systems in the Caribbean",
+          "url": "http://www.caribbeanelections.com/education/politics/women.asp",
+          "access-date": "2021-05-11",
+          "website": "www.caribbeanelections.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.blackpast.org/global-african-history/people-global-african-history/weekes-paula-mae-1958/",
+          "title": "Paula Mae Weekes (1958- ) • BlackPast",
+          "date": "2018-09-23",
+          "website": "BlackPast",
+          "language": "en-US",
+          "access-date": "2019-04-01",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

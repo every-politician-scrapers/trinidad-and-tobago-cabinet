@@ -1,0 +1,125 @@
+{
+  "title": "Ivor Archie",
+  "pageID": 56043233,
+  "categories": [
+    "Living people",
+    "Trinidad and Tobago lawyers",
+    "University of the West Indies alumni",
+    "Trinidad and Tobago engineers",
+    "Schlumberger people",
+    "Alumni of Solent University",
+    "Chief Justices of Trinidad and Tobago",
+    "People educated at Saint Mary's College, Trinidad and Tobago",
+    "1960 births",
+    "Solicitors-General of the Cayman Islands"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ivor Archie (born August 18, 1960) is a Trinidadian jurist who has served as chief justice of Trinidad and Tobago since 2008.",
+              "links": [
+                {
+                  "text": "jurist",
+                  "type": "internal",
+                  "page": "jurist"
+                },
+                {
+                  "text": "chief justice",
+                  "type": "internal",
+                  "page": "Chief Justice of Trinidad and Tobago"
+                },
+                {
+                  "type": "internal",
+                  "page": "Trinidad and Tobago"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ivor Archie"
+                ]
+              }
+            },
+            {
+              "text": "He was formerly solicitor general of the Cayman Islands."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:IvorArchie.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IvorArchie.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IvorArchie.jpg",
+          "caption": "200px",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Trinidadian jurist",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.trinidadexpress.com/20171111/news/a-favour-for-a-friend",
+          "title": "A favour for CJ’s friend?",
+          "date": "11 November 2017",
+          "website": "Trinidadexpress.com",
+          "access-date": "13 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.guardian.co.tt/news/2017-11-01/invasion-privacy",
+          "title": "Invasion of privacy",
+          "website": "The Trinidad Guardian Newspaper",
+          "access-date": "13 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://wp.caribbeannewsnow.com/2017/11/12/yet-another-controversy-trinidad-chief-justice/#",
+          "title": "Archived copy",
+          "access-date": "2017-12-13",
+          "archive-url": "https://web.archive.org/web/20171214014259/http://wp.caribbeannewsnow.com/2017/11/12/yet-another-controversy-trinidad-chief-justice/#",
+          "archive-date": "2017-12-14",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://newsday.co.tt/2017/11/18/judge-writes-judges-on-cj-archie/",
+          "title": "Judge writes judges on CJ Archie - Trinidad and Tobago Newsday",
+          "date": "18 November 2017",
+          "website": "Newsday.co.tt",
+          "access-date": "13 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.ttlawcourts.org/index.php/about-the-judiciary-1/the-chief-justices",
+          "title": "The Judiciary of Trinidad and Tobago : About the Judiciary : The Chief Justice",
+          "website": "Ttlawcourts.org",
+          "access-date": "13 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.middletemple.org.uk/bencher-persons-view?cid=45215",
+          "title": "Middle Temple",
+          "website": "Middletemple.org.uk",
+          "access-date": "13 December 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
