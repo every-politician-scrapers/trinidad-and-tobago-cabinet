@@ -24,11 +24,11 @@
         {
           "sentences": [
             {
-              "text": "Christine Kangaloo is a Trinidadian politician and the current President of the Senate of Trinidad and Tobago.",
+              "text": "Christine Kangaloo is a Trinidad and Tobago politician and the current President of the Senate of Trinidad and Tobago.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Trinidadian"
+                  "page": "Trinidad and Tobago"
                 },
                 {
                   "text": "President",
@@ -212,11 +212,11 @@
             ]
           },
           "nationality": {
-            "text": "Trinidadian and Tobagonian",
+            "text": "Trinidad and Tobago",
             "links": [
               {
                 "type": "internal",
-                "page": "Trinidadian and Tobagonian"
+                "page": "Trinidad and Tobago"
               }
             ]
           },
