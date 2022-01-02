@@ -171,44 +171,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://otp.tt/the-president/thepresident/",
-          "title": "The President's Profile",
-          "publisher": "The Office of the President",
-          "access-date": "2018-03-25",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2018-06-18",
-          "title": "Paula Mae Weekes, la nouvelle sensation du monde politique caraïbéen",
-          "url": "https://dofen.news/paula-mae-weekes-la-nouvelle-sensation-du-monde-politique-caraibeen/",
-          "access-date": "2021-05-11",
-          "website": "Dofen News",
-          "language": "fr-FR",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Caribbean Elections - Learning Resources: Electorial Systems in the Caribbean",
-          "url": "http://www.caribbeanelections.com/education/politics/women.asp",
-          "access-date": "2021-05-11",
-          "website": "www.caribbeanelections.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.blackpast.org/global-african-history/people-global-african-history/weekes-paula-mae-1958/",
-          "title": "Paula Mae Weekes (1958- ) • BlackPast",
-          "date": "2018-09-23",
-          "website": "BlackPast",
-          "language": "en-US",
-          "access-date": "2019-04-01",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

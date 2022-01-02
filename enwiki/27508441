@@ -354,65 +354,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.jamaicaobserver.com/latestnews/2021_must_be_the_Year_of_Caricom",
-          "title": "Jamaica Observer Limited",
-          "website": "Jamaica Observer",
-          "accessdate": "6 April 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.opm.gov.tt/",
-          "title": "Office of The Prime Minister - Republic of Trinidad and Tobago",
-          "website": "www.opm.gov.tt",
-          "accessdate": "6 April 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.opm.gov.tt/",
-          "title": "Office of The Prime Minister - Republic of Trinidad and Tobago",
-          "website": "www.opm.gov.tt",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.guardian.co.tt/neo/NeoProxy.dll?app=NeoDirect&com=6/2/920646/5f4c7ad2f2",
-          "title": "$18m for PM's official Tobago residence",
-          "website": "www.guardian.co.tt",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.loopcayman.com/content/rowley-course-another-term-tt-prime-minister-0",
-          "title": "Rowley on course for another term as T&T Prime Minister",
-          "website": "www.loopcayman.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.ttparliament.org/members.php?mid=54&id=KRO01",
-          "title": "Current Members of the House of Representatives > The Honorable Dr. Keith Rowley, MP",
-          "publisher": "Parliament of Trinidad and Tobago",
-          "access-date": "25 June 2010",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
