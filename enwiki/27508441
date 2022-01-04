@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Keith Christopher Rowley (born 24 October 1949) is a Trinidadian and Tobagonian politician serving as the seventh and present prime minister of Trinidad and Tobago, first elected into office on 9 September 2015 and again following the 2020 National General Elections.",
+              "text": "Keith Christopher Rowley (born 24 October 1949) is a Trinidadian and Tobagonian politician serving as the seventh and present prime minister of Trinidad and Tobago, first elected into office on 9 September 2015 and again following the 2020 general election.",
               "links": [
                 {
                   "text": "Trinidadian and Tobagonian",
@@ -35,6 +35,11 @@
                 {
                   "type": "internal",
                   "page": "Trinidad and Tobago"
+                },
+                {
+                  "text": "2020 general election",
+                  "type": "internal",
+                  "page": "2020 Trinidad and Tobago general election"
                 }
               ],
               "formatting": {
@@ -63,7 +68,7 @@
                 {
                   "text": "House of Representatives",
                   "type": "internal",
-                  "page": "House of Representatives of Trinidad and Tobago"
+                  "page": "House of Representatives (Trinidad and Tobago)"
                 },
                 {
                   "text": "Diego Martin West",

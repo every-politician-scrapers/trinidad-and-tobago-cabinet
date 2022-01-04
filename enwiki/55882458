@@ -22,11 +22,15 @@
         {
           "sentences": [
             {
-              "text": "Camille Robinson-Regis is a lawyer and politician from Trinidad and Tobago.",
+              "text": "Camille Robinson-Regis is a Trinidad and Tobago lawyer and politician, representing the People's National Movement.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Trinidad and Tobago"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's National Movement"
                 }
               ],
               "formatting": {
@@ -34,6 +38,34 @@
                   "Camille Robinson-Regis"
                 ]
               }
+            },
+            {
+              "text": "She was first elected as a Member of Parliament in the House of Representatives for Arouca South in 1992 and is the current Member of Parliament for Arouca/Maloney.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of parliament"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Trinidad and Tobago)"
+                },
+                {
+                  "text": "Arouca South",
+                  "type": "internal",
+                  "page": "Arouca South (parliamentary constituency)"
+                },
+                {
+                  "text": "Arouca/Maloney",
+                  "type": "internal",
+                  "page": "Arouca/Maloney (parliamentary constituency)"
+                }
+              ]
+            },
+            {
+              "text": "She is the Minister of Planning and Development, the Lady Vice-Chairman of the People's National Movement, and the Leader of Government Business in the House of Representatives."
             }
           ]
         }
