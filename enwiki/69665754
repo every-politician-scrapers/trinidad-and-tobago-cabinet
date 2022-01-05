@@ -1,0 +1,79 @@
+{
+  "title": "Shamfa Cudjoe",
+  "pageID": 69665754,
+  "categories": [
+    "Living people",
+    "1982 births",
+    "Bethune–Cookman University alumni",
+    "University of the West Indies alumni",
+    "People's National Movement politicians",
+    "Members of the House of Representatives (Trinidad and Tobago)",
+    "21st-century women politicians",
+    "Women government ministers of Trinidad and Tobago",
+    "Government ministers of Trinidad and Tobago",
+    "Trinidad and Tobago women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shamfa Ashaki Cudjoe (born 1982) is a Trinidad and Tobago politician representing the People's National Movement.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trinidad and Tobago"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's National Movement"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Shamfa Ashaki Cudjoe"
+                ]
+              }
+            },
+            {
+              "text": "She has served as a Member of Parliament in the House of Representatives for Tobago West since the 2015 general election.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of parliament"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Trinidad and Tobago)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tobago West"
+                },
+                {
+                  "text": "2015 general election",
+                  "type": "internal",
+                  "page": "2015 Trinidad and Tobago general election"
+                }
+              ]
+            },
+            {
+              "text": "She is the current Minister of Sport and Community Development."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Trinidad and Tobago politician",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
