@@ -1,0 +1,250 @@
+{
+  "title": "Foster Cummings",
+  "pageID": 69900071,
+  "categories": [
+    "Living people",
+    "1973 births",
+    "University of the West Indies alumni",
+    "People's National Movement politicians",
+    "Members of the House of Representatives (Trinidad and Tobago)",
+    "Government ministers of Trinidad and Tobago"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Foster Cummings (born in 1973) is a Trinidad and Tobago politician representing the People's National Movement.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trinidad and Tobago"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's National Movement"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Foster Cummings"
+                ]
+              }
+            },
+            {
+              "text": "He has served as a Member of Parliament in the House of Representatives for La Horquetta/Talparo since the 2020 general election.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of parliament"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Trinidad and Tobago)"
+                },
+                {
+                  "type": "internal",
+                  "page": "La Horquetta/Talparo"
+                },
+                {
+                  "text": "2020 general election",
+                  "type": "internal",
+                  "page": "2020 Trinidad and Tobago general election"
+                }
+              ]
+            },
+            {
+              "text": "He is the current Minister of Youth Development and National Service and General Secretary for the People's National Movement."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Member of Parliament for La Horquetta/Talparo, Trinidad and Tobago",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1973",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the House of Representatives for La Horquetta/Talparo",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Trinidad and Tobago)"
+              },
+              {
+                "type": "internal",
+                "page": "La Horquetta/Talparo"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Keith Rowley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Keith Rowley"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 April 2021"
+          },
+          "predecessor": {
+            "text": "Fitzgerald Hinds"
+          },
+          "office2": {
+            "text": "Minister in the Ministry of Works and Transport of Trinidad and Tobago"
+          },
+          "primeminister2": {
+            "text": "Keith Rowley"
+          },
+          "term_start2": {
+            "text": "19 August 2020"
+          },
+          "term_end2": {
+            "text": "18 April 2021"
+          },
+          "office5": {
+            "text": "General Secretary of the People's National Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's National Movement"
+              }
+            ]
+          },
+          "name": {
+            "text": "Foster Cummings"
+          },
+          "term_start3": {
+            "text": "10 August 2020"
+          },
+          "predecessor3": {
+            "text": "Maxie Cuffie"
+          },
+          "majority3": {
+            "text": "9,713 (55.0%)"
+          },
+          "office4": {
+            "text": "Government Senator"
+          },
+          "primeminister4": {
+            "text": "Keith Rowley"
+          },
+          "term_start4": {
+            "text": "14 August 2019"
+          },
+          "term_end4": {
+            "text": "31 December 2019"
+          },
+          "image": {
+            "text": "FosterCummings.jpg"
+          },
+          "office": {
+            "text": "Minister of Youth Development & National Service of Trinidad and Tobago"
+          },
+          "office6": {
+            "text": "Government Senator"
+          },
+          "primeminister6": {
+            "text": "Keith Rowley"
+          },
+          "term_start6": {
+            "text": "23 September 2015"
+          },
+          "term_end6": {
+            "text": "21 July 2019"
+          },
+          "office7": {
+            "text": "Opposition Senator (Temporary)"
+          },
+          "leader7": {
+            "text": "Keith Rowley"
+          },
+          "term_start7": {
+            "text": "18 June 2010"
+          },
+          "term_start5": {
+            "text": "30 September 2018"
+          },
+          "office8": {
+            "text": "Government Senator (Temporary)"
+          },
+          "term_end7": {
+            "text": "24 June 2014"
+          },
+          "primeminister8": {
+            "text": "Patrick Manning",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patrick Manning"
+              }
+            ]
+          },
+          "term_start8": {
+            "text": "15 January 2008"
+          },
+          "term_end8": {
+            "text": "6 April 2010"
+          },
+          "birth_date": {
+            "text": "1973 (age 49)"
+          },
+          "birth_place": {
+            "text": "Couva, Trinidad and Tobago",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Couva, Trinidad and Tobago"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's National Movement (1989-present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's National Movement"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Ashton Ford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ashton Ford"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Trinidadian and Tobagonian"
+          }
+        }
+      ]
+    }
+  ]
+}
