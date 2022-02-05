@@ -28,7 +28,12 @@
                   "type": "internal",
                   "page": "Attorney General of Trinidad and Tobago"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Faris Al-Rawi"
+                ]
+              }
             },
             {
               "text": "He is also a People's National Movement (PNM) Member of the House of Representatives for the constituency of San Fernando West.",
