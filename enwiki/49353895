@@ -1,246 +1,27 @@
 {
-  "title": "Bridgid Annisette-George",
-  "pageID": 49353895,
-  "categories": [
-    "1958 births",
-    "Living people",
-    "People from Port of Spain",
-    "University of the West Indies alumni",
-    "People's National Movement politicians",
-    "Members of the Senate (Trinidad and Tobago)",
-    "Members of the House of Representatives (Trinidad and Tobago)",
-    "20th-century women politicians",
-    "21st-century women politicians",
-    "Women government ministers of Trinidad and Tobago",
-    "Government ministers of Trinidad and Tobago",
-    "Women legislative speakers",
-    "Trinidad and Tobago women lawyers",
-    "Trinidad and Tobago women in politics"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bridgid Annisette-George is a Trinidad and Tobago lawyer and politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Trinidad and Tobago"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bridgid Annisette-George"
-                ]
-              }
-            },
-            {
-              "text": "She has been the Speaker of House of Representatives of Trinidad and Tobago since 2015, the second female to hold the position and currently the world's second longest female incumbent to consecutively hold the office of Speaker.",
-              "links": [
-                {
-                  "text": "Speaker of House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives (Trinidad and Tobago)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Trinidad and Tobago"
-                },
-                {
-                  "text": "the world's second longest female incumbent to consecutively hold the office of Speaker",
-                  "type": "internal",
-                  "page": "List of female speakers of national and territorial lower houses"
-                }
-              ]
-            },
-            {
-              "text": "She previously served as a Senator and the third female Attorney General of Trinidad and Tobago for the PNM before resigning to return to her private law practice."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Trinidad and Tobago lawyer and politician",
-          "template": "short description"
-        },
-        {
-          "date": "July 2020",
-          "template": "use dmy dates"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Bridgid Annisette-George"
-          },
-          "image": {
-            "text": "Sen The Hon Mrs. Bridgid Annisette-George.jpg"
-          },
-          "office": {
-            "text": "Speaker of the House of Representatives",
-            "links": [
-              {
-                "text": "Speaker of the House of Representatives",
-                "type": "internal",
-                "page": "List of Speakers of the House of Representatives of Trinidad and Tobago"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "23 September 2015"
-          },
-          "predecessor": {
-            "text": "Wade Mark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wade Mark"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Keith Rowley",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Keith Rowley"
-              }
-            ]
-          },
-          "president": {
-            "text": "Paula-Mae Weekes Anthony Carmona",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paula-Mae Weekes"
-              },
-              {
-                "type": "internal",
-                "page": "Anthony Carmona"
-              }
-            ]
-          },
-          "order1": {
-            "text": "Attorney General",
-            "links": [
-              {
-                "text": "Attorney General",
-                "type": "internal",
-                "page": "Attorney General of Trinidad and Tobago"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "8 November 2007"
-          },
-          "term_end1": {
-            "text": "29 May 2009"
-          },
-          "predecessor1": {
-            "text": "John Jeremie"
-          },
-          "successor1": {
-            "text": "John Jeremie"
-          },
-          "primeminister1": {
-            "text": "Patrick Manning",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Patrick Manning"
-              }
-            ]
-          },
-          "president1": {
-            "text": "George Maxwell Richards",
-            "links": [
-              {
-                "type": "internal",
-                "page": "George Maxwell Richards"
-              }
-            ]
-          },
-          "order2": {
-            "text": "Member of the Senate",
-            "links": [
-              {
-                "text": "Senate",
-                "type": "internal",
-                "page": "Senate of Trinidad and Tobago"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "8 November 2007"
-          },
-          "term_end2": {
-            "text": "29 May 2009"
-          },
-          "primeminister2": {
-            "text": "Patrick Manning",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Patrick Manning"
-              }
-            ]
-          },
-          "president2": {
-            "text": "George Maxwell Richards",
-            "links": [
-              {
-                "type": "internal",
-                "page": "George Maxwell Richards"
-              }
-            ]
-          },
-          "party": {
-            "text": "People's National Movement"
-          },
-          "nationality": {
-            "text": "Trinidadian and Tobagonian",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Trinidadian and Tobagonian"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Bridgid Annisette"
-          },
-          "alma_mater": {
-            "text": "University of the West Indies Hugh Wooding Law School",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of the West Indies"
-              },
-              {
-                "type": "internal",
-                "page": "Hugh Wooding Law School"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer · politician"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Bridgid Annisette-George",
+  "image": "Sen The Hon Mrs. Bridgid Annisette-George.jpg",
+  "office": "Speaker of the House of Representatives",
+  "term_start": "23 September 2015",
+  "predecessor": "Wade Mark",
+  "primeminister": "Keith Rowley",
+  "president": "Paula-Mae Weekes Anthony Carmona",
+  "order1": "Attorney General",
+  "term_start1": "8 November 2007",
+  "term_end1": "29 May 2009",
+  "predecessor1": "John Jeremie",
+  "successor1": "John Jeremie",
+  "primeminister1": "Patrick Manning",
+  "president1": "George Maxwell Richards",
+  "order2": "Member of the Senate",
+  "term_start2": "8 November 2007",
+  "term_end2": "29 May 2009",
+  "primeminister2": "Patrick Manning",
+  "president2": "George Maxwell Richards",
+  "party": "People's National Movement",
+  "nationality": "Trinidadian and Tobagonian",
+  "birth_name": "Bridgid Annisette",
+  "alma_mater": "University of the West Indies Hugh Wooding Law School",
+  "profession": "Lawyer · politician"
 }
