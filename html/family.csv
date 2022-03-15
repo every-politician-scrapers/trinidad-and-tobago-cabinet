@@ -1,0 +1,11 @@
+id,name,relationship,relative,relativename
+Q1567272,Jack Warner,child,Q61927821,Daryll Warner
+Q1567272,Jack Warner,child,Q61927840,Daryan Warner
+Q16097327,Jean Ramjohn-Richards,relative,Q1397957,Noor Hassanali
+Q16097327,Jean Ramjohn-Richards,relative,Q16014163,Manny Ramjohn
+Q16097327,Jean Ramjohn-Richards,spouse,Q57532,George Maxwell Richards
+Q16211399,Reema Harrysingh-Carmona,spouse,Q4772220,Anthony Carmona
+Q365206,Patrick Manning,spouse,Q5687959,Hazel Manning
+Q4772220,Anthony Carmona,spouse,Q16211399,Reema Harrysingh-Carmona
+Q57532,George Maxwell Richards,spouse,Q16097327,Jean Ramjohn-Richards
+Q7145811,Patricia Robinson,spouse,Q634551,A. N. R. Robinson
