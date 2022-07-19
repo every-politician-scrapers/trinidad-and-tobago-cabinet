@@ -1,0 +1,110 @@
+{
+  "title": "Paula Gopee-Scoon",
+  "pageID": 47434857,
+  "categories": [
+    "Members of the House of Representatives (Trinidad and Tobago)",
+    "Foreign ministers of Trinidad and Tobago",
+    "Government ministers of Trinidad and Tobago",
+    "University of the West Indies alumni",
+    "Alumni of the University of London",
+    "1958 births",
+    "Living people",
+    "Female foreign ministers",
+    "Women government ministers of Trinidad and Tobago",
+    "Trinidad and Tobago women diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Paula Gopee-Scoon (born 18 April 1958) is a representative of Point Fortin and a former Minister of Foreign Affairs for Trinidad and Tobago (2007 to 2010).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Point Fortin"
+                },
+                {
+                  "text": "Minister of Foreign Affairs for Trinidad and Tobago",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Trinidad and Tobago)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Paula Gopee-Scoon"
+                ]
+              }
+            },
+            {
+              "text": "She attended the University of the West Indies, where she received a B.Sc, and after that the University of London.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the West Indies"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of London"
+                }
+              ]
+            },
+            {
+              "text": "She has three children, one of whom was a squash player at Princeton University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Princeton University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Barack_Obama_&_Paula_Gopee-Scoon_at_Piarco_International_Airport_4-19-09.JPG",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Barack_Obama_%26_Paula_Gopee-Scoon_at_Piarco_International_Airport_4-19-09.JPG?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Barack_Obama_%26_Paula_Gopee-Scoon_at_Piarco_International_Airport_4-19-09.JPG",
+          "caption": "Trinidad and Tobago foreign minister Paula Gopee-Scoon bidding farewell to President Barack Obama following the 5th Summit of the Americas on April 19, 2009.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Trinidadian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "trinidad-politician-stub"
+        }
+      ]
+    }
+  ]
+}
